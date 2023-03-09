@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Zero Flight Game Test</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -109,10 +109,10 @@
 </div>
 
 
-<p>det her er html</p>
+<p>Flyvespil!</p>
 
 <?php
-echo "Det her er php"
+echo "Stadig Flyvespil!"
 ?>
 
 </body>
